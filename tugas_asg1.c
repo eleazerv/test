@@ -26,5 +26,8 @@ int main() {
     printf("please enter the width = ") ;
     scanf("%f", &width1) ;
     square(length1, width1) ;
-    return 0 ; 
+    
+
+    // task 3 
+    printf("my fav programming language is python \n") ;
 }
